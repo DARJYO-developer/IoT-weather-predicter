@@ -6,7 +6,7 @@
 
 an IoT (Internet of Things)-based weather reporting system can provide all of the climatic information via the internet, including temperature, humidity, rain, and others.
 
-build an IoT-based weather reporting system using a microcontroller, sensors, and a device that can connect to the internet (such as a Raspberry Pi). This code is written in C++, but you can adapt it to any other programming language that is supported by your microcontroller and internet device.
+Build an IoT-based weather reporting system using a microcontroller, sensors, and a device that can connect to the internet (such as a Raspberry Pi). This code is written in C++, but you can adapt it to any other programming language that is supported by your microcontroller and internet device.
 
 First, you will need to set up your microcontroller and sensors to collect data from the environment. You can use sensors such as a temperature sensor, a humidity sensor, and a rain sensor to measure the temperature, humidity, and amount of rain, respectively. You will need to write code to read the values from these sensors and store them in variables.
 
